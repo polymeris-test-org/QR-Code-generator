@@ -1,5 +1,6 @@
 QR Code generator library
 =========================
+x
 
 
 Introduction
